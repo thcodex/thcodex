@@ -4,7 +4,7 @@
 
 - 📚 I'm currently learning English and Machine Learning
 - 💪🏽 I'm looking to collaborate with more students and teams!
-- ⚡ 2022 Goals: Start writing in my blog and finish my website.
+- ⚡ 2021 Goals: Start writing in my blog and finish my website.
 - 🔥 My Hobbies: I love extreme sports and foreign languages
 
 ### Connect with me:
