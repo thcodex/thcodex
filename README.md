@@ -1,5 +1,7 @@
 ### Hi there, I'm Thomas - aka [thcodex][website] 😊
 
+![Twitter Follow](https://img.shields.io/twitter/follow/thcod3x?color=%231DA1F2&logo=Twitter&style=for-the-badge) ![Website](https://img.shields.io/website?down_color=%23C70D2C&down_message=WIP&label=thcodex.com&style=for-the-badge&up_message=UP&url=https%3A%2F%2Fwww.thcodex.com)
+
 ## I'm a Student and Developer!
 
 - 📚 I'm currently learning English and Machine Learning
@@ -19,15 +21,20 @@
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>
 
+<br/>
 ---
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+---
+<details>
+    <summary>⚡ Recent GitHub Activity</summary>
+<!--START_SECTION:activity-->
+
+</details>
 
 
 [website]: https://thcodex.com
