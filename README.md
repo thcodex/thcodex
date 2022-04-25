@@ -1,6 +1,6 @@
 ### Hi there, I'm Thomas - aka [thcodex][website] 😊
 
-![Twitter Follow](https://img.shields.io/twitter/follow/thcod3x?color=%231DA1F2&logo=Twitter&style=for-the-badge) ![Website](https://img.shields.io/website?down_color=%23C70D2C&down_message=WIP&label=thcodex.com&style=for-the-badge&up_message=UP&url=https%3A%2F%2Fwww.thcodex.com)
+![Twitter Follow](https://img.shields.io/twitter/follow/thcodex_?color=%231DA1F2&logo=Twitter&style=for-the-badge) ![Website](https://img.shields.io/website?down_color=%23C70D2C&down_message=WIP&label=thcodex.com&style=for-the-badge&up_message=UP&url=https%3A%2F%2Fwww.thcodex.com)
 
 ## I'm a Student and Developer!
 
